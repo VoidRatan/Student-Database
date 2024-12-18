@@ -1,12 +1,12 @@
 
-# Student Database System For college
+# Student Database System For College
 
 📘 **Description**
 
 The Student Database System is a Python-based application designed to streamline and manage college student information effectively. This system uses MySQL as the backend to store and retrieve data, providing an intuitive interface for efficient data handling.
 ## Features
 
-- **User Authentication:** Secure login system for authorized access.
+- **User Authentication:** A secure login system is used for authorized access.
 - **Database Management:** Add, update, delete, and search student records
 - **Interactive User Interface:** A user-friendly interface built with Python libraries for seamless navigation.
 - **Data Security:** Robust integration with MySQL for safe and reliable data storage.
@@ -53,17 +53,6 @@ db = mysql.connector.connect(
 ```bash
 python main.py  
 ```
-    
-## Demo
-
-Insert gif or link to demo
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
